@@ -1,0 +1,19 @@
+.Toastify__toast--error {
+    box-shadow: 0 0 8px #ff000099;
+}
+
+.Toastify__toast--success {
+    box-shadow: 0 0 8px #00ff0099;
+}
+
+.Toastify__toast--info {
+    box-shadow: 0 0 8px #007bff99;
+}
+
+.Toastify__toast--warning {
+    box-shadow: 0 0 8px #ffc10799;
+}
+
+.Toastify__toast--default {
+    box-shadow: 0 0 8px #333;
+}
