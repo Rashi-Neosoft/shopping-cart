@@ -1,6 +1,6 @@
 # Shopping App
 
-This web application lets you browse through products and add picked products to the cart. It is made using Vue3, Vuex, TypScript and Tailwind.
+This web application lets you browse through categories and add products to the cart. It is made using Vue3, Vuex, TypScript and Tailwind.
 
 ## Project Setup
 
